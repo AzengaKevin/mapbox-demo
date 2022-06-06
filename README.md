@@ -5,4 +5,4 @@ My first comment after trying out mapbox, compare to the the giant google maps. 
 Am just wondering whether switching is worthwhile.
 
 ## The Map
-<img scr="images/screenshot.png" />
+![Mapbox in Action Screenshot](https://github.com/AzengaKevin/mapbox-demo/blob/main/images/screenshot.png?raw=true)
